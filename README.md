@@ -1,6 +1,7 @@
 #Web Scraping with Python: Scraping Data from a Website using BeautifulSoup.
 
-[https://youtu.be/K5fSwn2W8lc](https://youtu.be/K5fSwn2W8lc)
+Link: https://youtu.be/K5fSwn2W8lc 
+
 
 Step 1: Install the Required Libraries:
 The code begins by installing two libraries, 'requests' and 'bs4', using the pip package manager. These libraries are required for making HTTP requests and parsing HTML, respectively.
